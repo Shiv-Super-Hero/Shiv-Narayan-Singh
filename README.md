@@ -25,11 +25,13 @@
 - Microservices
 
 ### ☁️ Cloud & DevOps
-- AWS (Data Engineering)
+- AWS (Cloud Architecting)
 - Git, GitHub
+- Docker
+- K8s(starts soon)
 
 ### 💾 Databases
-- sqlplus
+- SqlPlus
 - MongoDB
 - MySQL
 - PostgreSql
