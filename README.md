@@ -39,9 +39,9 @@
 
 ### 💻 Programming Languages
 - Java
-- HTML/CSS
-- C
 - C++
+- C
+- HTML/CSS
 
 ### 📚 Tools & Methodologies
 - Agile / Scrum
