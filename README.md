@@ -18,25 +18,34 @@
 ## 🚀 Skills & Technologies
 
 ### 🌐 Backend & Web
-- Hibernate      - REST APIs
-- Docker         - Spring and all its modules
+- Hibernate
+- REST APIs
+- Docker
+- Spring and all its modules
 - Microservices
 
 ### ☁️ Cloud & DevOps
-- AWS (Cloud Architecting)    - Git, GitHub
-- Docker                      - K8s(starts soon)
+- AWS (Cloud Architecting)
+- Git, GitHub
+- Docker
+- K8s(starts soon)
 
 ### 💾 Databases
-- SqlPlus           - MongoDB
-- MySQL             - PostgreSql
+- SqlPlus
+- MongoDB
+- MySQL
+- PostgreSql
 - Redis
 
 ### 💻 Programming Languages
-- Java          - C++
-- C             - HTML/CSS
+- Java
+- C++
+- C
+- HTML/CSS
 
 ### 📚 Tools & Methodologies
-- Git           - Agile / Scrum
+- Git
+- Agile / Scrum
 - Data Structures & Algorithms
 - Design Patterns
 ---
@@ -72,8 +81,8 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/apache-jmeter-icon.png" alt="JMeter" width="40" height="40"/>
-  </a>
+  <img src="https://jmeter.apache.org/images/logo.svg" alt="Apache JMeter" width="40" height="40"/>
+</a>
  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ## 💼 Soft Skills
