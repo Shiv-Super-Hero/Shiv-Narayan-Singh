@@ -18,34 +18,25 @@
 ## 🚀 Skills & Technologies
 
 ### 🌐 Backend & Web
-- Hibernate
-- REST APIs
-- Docker
-- Spring and all its modules
+- Hibernate      - REST APIs
+- Docker         - Spring and all its modules
 - Microservices
 
 ### ☁️ Cloud & DevOps
-- AWS (Cloud Architecting)
-- Git, GitHub
-- Docker
-- K8s(starts soon)
+- AWS (Cloud Architecting)    - Git, GitHub
+- Docker                      - K8s(starts soon)
 
 ### 💾 Databases
-- SqlPlus
-- MongoDB
-- MySQL
-- PostgreSql
+- SqlPlus           - MongoDB
+- MySQL             - PostgreSql
 - Redis
 
 ### 💻 Programming Languages
-- Java
-- C++
-- C
-- HTML/CSS
+- Java          - C++
+- C             - HTML/CSS
 
 ### 📚 Tools & Methodologies
-- Git
-- Agile / Scrum
+- Git           - Agile / Scrum
 - Data Structures & Algorithms
 - Design Patterns
 ---
